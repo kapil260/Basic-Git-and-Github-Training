@@ -122,7 +122,7 @@ git commit -m "third commit"
 > - `git log` — full detail: author, date, full message.
 > - `git log --oneline` — one line per commit; best for quickly grabbing a hash.
 > - `git log --oneline --graph --all` — draws the branch structure; use it when branches and merges are involved (Lab 4).
-
+learning to pull request 
 Terminal:
 
 ```bash
